@@ -1,2 +1,2 @@
-[![Dawei's GitHub stats](https://github-readme-stats.vercel.app/api?username=PKUfudawei&show=reviews,discussions_started,discussions_answered,prs_merged,contribs,prs_merged_percentage&show_icons=true&theme=onedark&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Dawei's GitHub stats](https://github-readme-stats.vercel.app/api?username=PKUfudawei&show=prs_merged,contribs,prs_merged_percentage&show_icons=true&theme=onedark&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PKUfudawei)](https://github.com/anuraghazra/github-readme-stats)
